@@ -1,13 +1,19 @@
-//primer programa Hola Mundo
-//lenguaje de programacion 
-public class HolaMundo{
-// metodo constructor 
-   public HolaMundo{}{
- }
-//metodo principal 
-Run|Debug
-public static void main(string[]args){
-systea.out.println("Hola");
+//primer programa Hola mundo
 
+//lenguaje de progrmacion 1
+
+public class HolaMundo {
+//metodo constructor 
+ public HolaMundo () {
 }
-}
+    //metodo principal
+
+   public static void main (String[] args) { 
+     System.out.println("Hola");
+
+    }
+
+  
+} 
+
+

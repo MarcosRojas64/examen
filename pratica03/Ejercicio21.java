@@ -1,6 +1,6 @@
 package pratica03;
 
-import java.util.Scanner;
+
 
 public class Ejercicio21 {
 
