@@ -1,3 +1,9 @@
+/**
+ * practica5
+ * @author Marcos Rojas
+ * 
+ * 
+*/
 public class persona{
   protected String nombre;
    private int edad;

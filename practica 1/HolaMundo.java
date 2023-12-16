@@ -1,5 +1,10 @@
 //primer programa Hola mundo
-
+/**
+ * practica5
+ * @author Marcos Rojas
+ * 
+ * 
+*/
 //lenguaje de progrmacion 1
 
 public class HolaMundo {

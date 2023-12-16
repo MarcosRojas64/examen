@@ -1,5 +1,10 @@
 package practica2;
-
+/**
+ * practica5
+ * @author Marcos Rojas
+ * 
+ * 
+*/
 import java.util.Scanner;
 
 public class practica2ejercicio2 {

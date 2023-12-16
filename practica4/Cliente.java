@@ -1,3 +1,9 @@
+/**
+ * practica5
+ * @author Marcos Rojas
+ * 
+ * 
+*/
 package practica4;
  public class Cliente {
 private String nombre;

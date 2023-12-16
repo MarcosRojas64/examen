@@ -1,3 +1,9 @@
+/**
+ * practica5
+ * @author Marcos Rojas
+ * 
+ * 
+*/
 public class Estudiante extends persona {
 
    private int creditos;

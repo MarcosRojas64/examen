@@ -1,5 +1,10 @@
 package practica4;
-
+/**
+ * practica5
+ * @author Marcos Rojas
+ * 
+ * 
+*/
 import java.util.Scanner;
 
 public class Persona {

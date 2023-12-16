@@ -2,7 +2,12 @@
 package practica2;
 
 import java.util.Scanner;
-
+/**
+ * practica5
+ * @author Marcos Rojas
+ * 
+ * 
+*/
 public class practica2ejercicio01{
   static String red = "\033[31m";
   static String green = "\033[32m";

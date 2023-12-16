@@ -1,5 +1,10 @@
 package practica4;
-
+/**
+ * practica5
+ * @author Marcos Rojas
+ * 
+ * 
+*/
 public class Banco {
     
     private Cliente cliente1,cliente2,cliente3;

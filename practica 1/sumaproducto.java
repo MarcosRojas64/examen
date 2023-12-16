@@ -1,4 +1,13 @@
 //programa que suma y Multiplica numero
+/**
+ * practica5
+ * @author Marcos Rojas
+ * 
+ * 
+*/
+
+
+
 import java.util.Scanner;
 public class sumaproducto{
   public static void main (String[] args){

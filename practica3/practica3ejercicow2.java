@@ -2,9 +2,12 @@ package practica3;
 
 import java.util.Scanner;
 
-/*
+/**
+ * practica5
  * @author Marcos Rojas
- */
+ * 
+ * 
+*/
 public class practica3ejercicow2 {
     public static void main(String[] args) {
     {

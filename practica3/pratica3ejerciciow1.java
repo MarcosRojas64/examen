@@ -1,7 +1,10 @@
 package practica3;
-/*
- * @Marcos Rojas 
- */
+/**
+ * practica5
+ * @author Marcos Rojas
+ * 
+ * 
+*/
 public class pratica3ejerciciow1 {
   
   //bucle while
