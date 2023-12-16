@@ -1,4 +1,4 @@
-package pratica03;
+package practica3;
 /*
  * @Marcos Rojas 
  */
