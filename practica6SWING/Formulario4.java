@@ -1,7 +1,7 @@
 package practica6SWING;
 
 /**
- * practica5
+ * practica6SWING
  * @author Marcos Rojas
  * 
  * 
